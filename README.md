@@ -10,6 +10,17 @@ wav2scape is a user-friendly tool for analyzing acoustic similarities and distan
   <em>wav2scape graphical user interface showing the analysis workflow</em>
 </p>
 
+<br><br>
+
+<p align="center">
+  <img src="docs/_static/images/similarity_matrix_autoscaled.png" alt="Similarity Matrix" width="30%" style="display:inline-block; margin:0 10px;">
+  <img src="docs/_static/images/BA_PCA1_vs_PCA2_scatter.png" alt="PCA1 vs PCA2 Scatter" width="30%" style="display:inline-block; margin:0 10px;">
+  <img src="docs/_static/images/BA_PCA2_vs_PCA3_scatter.png" alt="PCA2 vs PCA3 Scatter" width="30%" style="display:inline-block; margin:0 10px;">
+</p>
+<p align="center">
+  <em>wav2scape visualizations: similarity matrix and PCA scatter plots computed from example speech data</em>
+</p>
+
 ## Table of Contents  <!-- omit in toc -->
 - [What wav2scape Does](#what-wav2scape-does)
 - [Data Requirements](#data-requirements)
