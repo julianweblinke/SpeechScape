@@ -292,7 +292,7 @@ If you use wav2scape in your research, please cite:
 ```bibtex
 @software{wav2scape,
   author    = {Julian Linke},
-  title     = {wav2scape: An easy to use tool for clustering speech data based on self-supervised representations},
+  title     = {wav2scape: From Raw Audio to Distances — An easy-to-use tool for analyzing speech data based on self-supervised representations},
   url       = {https://github.com/julianweblinke/wav2scape},
   year      = {2025},
 }
