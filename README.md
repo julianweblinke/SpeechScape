@@ -59,7 +59,7 @@ wav2scape processes audio recordings and generates similarity matrices based on 
 These are just example applications — any categorical property reflected in your audio file naming convention can be analyzed.
 > **Note:** While wav2scape can, in principle, process any audio recordings, its underlying representations are based on a model pre-trained exclusively on speech data. This means it is specifically optimized for speech and may not generalize well to non-speech audio.
 
-**Simple workflow:** Upload raw audio files → Run analysis → Get output folder with similarity matrices, PCA visualizations, and statistical summaries.
+**Simple workflow:** Add your raw audio files → Start analysis (runs entirely on your computer) → Get output folder with similarity matrices, PCA visualizations, and statistical summaries.
 
 ## Data Requirements
 
