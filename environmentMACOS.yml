@@ -1,0 +1,16 @@
+name: wav2scape
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - scikit-learn=1.6.1
+  - librosa=0.10.2.post1
+  - seaborn=0.13.2
+  - numpy<2  # Explicit version constraint
+  - pip=25.0
+  - pip:
+    - transformers==4.50.2
+    - "torch>=2.2.0,<2.3.0"
+    - pyinstaller==6.12.0
+    - torchaudio
