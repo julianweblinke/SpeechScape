@@ -191,26 +191,6 @@ pyinstaller --clean --onefile \
     src/main.py
 ```
 
-### 4. Generating Documentation
-
-Generate comprehensive API documentation from the source code:
-
-```bash
-# Navigate to docs directory
-cd docs
-
-# Run the documentation generator
-./generate_docs.sh
-```
-
-This will create:
-- **HTML documentation**: `docs/_build/html/index.html` (for local viewing)
-
-**Online Documentation**: The documentation is automatically built and hosted at:
-📖 **[https://julianweblinke.github.io/SpeechScape-dev/](https://julianweblinke.github.io/SpeechScape-dev/)** (via GitHub Pages)
-
-**Requirements**: The script will automatically install Sphinx and required packages. No additional setup needed for viewing documentation online.
-
 ## Technical Background
 
 wav2scape is built on the wav2vec 2.0 framework and utilizes the XLSR-53 model for multilingual speech representation (see also [wav2vec 2.0 repository](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec)). The tool processes audio recordings through the following pipeline:
