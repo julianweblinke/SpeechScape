@@ -118,7 +118,9 @@ utterance003_German_SP02.wav     # e.g. 3.7 seconds
 **Note:** You must run `chmod +x wav2scape` before executing the application.
 
 ### Linux
-[![Download Linux v1.1](https://img.shields.io/badge/Download-Linux%20v1.1-orange?style=for-the-badge&logo=linux)](https://github.com/julianweblinke/wav2scape/releases/download/v1.1/wav2scape-linux-part1.tar)
+[![Download Linux v1.1 - Part 1](https://img.shields.io/badge/Download-Linux%20v1.1-orange?style=for-the-badge&logo=linux)](https://github.com/julianweblinke/wav2scape/releases/download/v1.1/wav2scape-linux-part1.tar)
+[![Download Linux v1.1 - Part 2](https://img.shields.io/badge/Download-Linux%20v1.1-orange?style=for-the-badge&logo=linux)](https://github.com/julianweblinke/wav2scape/releases/download/v1.1/wav2scape-linux-part2.tar)
+[![Download Linux v1.1 - Reassemble Script](https://img.shields.io/badge/Download-Linux%20v1.1-orange?style=for-the-badge&logo=linux)](https://github.com/julianweblinke/wav2scape/releases/download/v1.1/wav2scape-linux-reassemble.sh)
 
 Due to GitHub's file size limitations, the Linux binary is split into multiple parts.
 
