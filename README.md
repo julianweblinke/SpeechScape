@@ -260,7 +260,7 @@ wav2scape generates comprehensive output files for analysis and validation acros
 
 ## Citation
 
-If you use wav2scape in your research, please cite:
+If you use wav2scape, please cite the following two papers:
 
 **Methodology Paper:**
 ```bibtex
@@ -275,6 +275,18 @@ If you use wav2scape in your research, please cite:
 }
 ```
 
+**Software citation:**
+```bibtex
+@software{wav2scape,
+  author    = {Julian Linke},
+  title     = {wav2scape: From Raw Audio to Distances — An easy-to-use tool for analyzing speech data based on self-supervised representations},
+  url       = {https://github.com/julianweblinke/wav2scape},
+  year      = {2025},
+}
+```
+
+You may also reference the underlying wav2vec 2.0 model:
+
 **Underlying Model (XLSR-53):**
 ```bibtex
 @inproceedings{conneau21_interspeech,
@@ -288,15 +300,6 @@ If you use wav2scape in your research, please cite:
 }
 ```
 
-**For software citations, you may also reference this repository:**
-```bibtex
-@software{wav2scape,
-  author    = {Julian Linke},
-  title     = {wav2scape: From Raw Audio to Distances — An easy-to-use tool for analyzing speech data based on self-supervised representations},
-  url       = {https://github.com/julianweblinke/wav2scape},
-  year      = {2025},
-}
-```
 
 ## License
 
