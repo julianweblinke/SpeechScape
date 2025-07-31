@@ -32,7 +32,6 @@ wav2scape is a user-friendly tool for analyzing acoustic similarities and distan
   - [1. Installation](#1-installation)
   - [2. Usage](#2-usage)
   - [3. Building Binaries](#3-building-binaries)
-  - [4. Generating Documentation](#4-generating-documentation)
 - [Technical Background](#technical-background)
 - [Output Files and Validation](#output-files-and-validation)
   - [Visualization Files (`images/`)](#visualization-files-images)
