@@ -10,7 +10,7 @@ wav2scape is a user-friendly tool for analyzing acoustic similarities and distan
   <em>wav2scape graphical user interface showing the analysis workflow</em>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="docs/_static/images/similarity_matrix_autoscaled.png" alt="Similarity Matrix" width="30%" style="display:inline-block; margin:0 10px;">
@@ -19,6 +19,14 @@ wav2scape is a user-friendly tool for analyzing acoustic similarities and distan
 </p>
 <p align="center">
   <em>wav2scape visualizations: similarity matrix and PCA scatter plots computed from example speech data</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="docs/_static/videos/wav2scape_workflow.gif" alt="wav2scape Complete Workflow" width="80%">
+  <br>
+  <em>Complete wav2scape workflow: from download to analysis results in 8 simple steps</em>
 </p>
 
 ## Table of Contents  <!-- omit in toc -->
