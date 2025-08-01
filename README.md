@@ -93,7 +93,7 @@ utterance003_German_SP02.wav     # e.g. 3.7 seconds
 
 *In this example: CategoryA = language (English/German), CategoryB = speaker-ID (SP01/SP02)*
 
-**Real example from provided test data (`data/raw/GR/`) from the [GRASS corpus](https://www.spsc.tugraz.at/databases-and-tools/grass-the-graz-corpus-of-read-and-spontaneous-speech.html):**
+**Real example from provided test data ([`data/raw/GR/`](https://github.com/julianweblinke/wav2scape/raw/main/data/raw/GR.zip)) from the [GRASS corpus](https://www.spsc.tugraz.at/databases-and-tools/grass-the-graz-corpus-of-read-and-spontaneous-speech.html):**
 ```
 005M_025F005M_005M_HM1_CS_000__005M_0149_CS_005M.wav
 005M_025F005M_005M_HM1_CS_000__005M_0150_CS_005M.wav
