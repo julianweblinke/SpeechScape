@@ -26,7 +26,7 @@ wav2scape is a user-friendly tool for analyzing acoustic similarities and distan
 <p align="center">
   <img src="docs/_static/videos/wav2scape_workflow.gif" alt="wav2scape Complete Workflow" width="80%">
   <br>
-  <em>Complete wav2scape workflow: from download to analysis results in 8 simple steps</em>
+  <em>Complete wav2scape workflow: from download to analysis results in 8 simple steps (macOS)</em>
 </p>
 
 ## Table of Contents  <!-- omit in toc -->
