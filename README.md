@@ -267,7 +267,7 @@ wav2scape generates comprehensive output files for analysis and validation acros
 
 ## Citation
 
-If you use wav2scape, please cite the following two papers:
+If you use wav2scape, please cite the following:
 
 **Methodology Paper:**
 ```bibtex
